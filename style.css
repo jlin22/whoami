@@ -1,28 +1,17 @@
-* {
-	font-family: Inconsolata, monospace;
-	margin: auto;
+body {
+	background: linear-gradient(to left, #0BD1FB, #F7FCFC);
 }
 
 #container {
+	font-family: Inconsolata, monospace;
+	color: #cf80f8;
+	margin: auto;
 }
 
 h3 {
-	font-size: 24px;
-}
-
-a {
-	padding: 10px 10px;
 }
 
 .flex {
 	display: flex;
 	flex-direction: column;
-	margin: 10px 0 10px 0;
-	padding: 20px 20px;
-	background-color: #7e7d8a;
-	color: rgb(205, 214, 245);
-}
-
-#projects {
-	margin: inherit;
 }
