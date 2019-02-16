@@ -1,10 +1,8 @@
 body {
-	background: linear-gradient(to left, #0BD1FB, #F7FCFC);
 }
 
 #container {
 	font-family: Inconsolata, monospace;
-	color: #cf80f8;
 	margin: auto;
 }
 
